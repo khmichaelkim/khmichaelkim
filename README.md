@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Kim</h1>
 <h3 align="center">Welcome to my profile!</h3>
 
-- 🔭 I’m currently working on [warpcast-channels-analyzer](https://github.com/khmichaelkim/warpcast-channels-analyzer)
+- 🔭 I’m currently working on building a [research agent](https://github.com/khmichaelkim/research-agent)
 
 - 🌱 I’m currently learning **Backend development at BloomTech**
 
